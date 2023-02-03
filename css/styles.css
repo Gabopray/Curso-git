@@ -1,3 +1,11 @@
 body {
     background-color: aqua;
 }
+
+.list {
+    font-weight: bold;
+}
+
+ul {
+    color:blueviolet;
+}
